@@ -22,10 +22,10 @@ Here are links to my past and current project repositories, in no particular ord
 <summary>Past EE Projects</summary>
 <br>
 <a href="https://github.com/xinbi99/EE-microcotroller-project">
-Cipher lock implemented on microcontroller and LCD module with C</a>  
+-Cipher lock implemented on microcontroller and LCD module with C</a>  
 <br/>
 <a href="https://github.com/xinbi99/EE-microcotroller-project">
-Cipher lock implemented on microcontroller and LCD module with C</a>
+-Cipher lock implemented on microcontroller and LCD module with C</a>
 </details>
 
 
@@ -33,5 +33,5 @@ Cipher lock implemented on microcontroller and LCD module with C</a>
 <summary>Past CMPSC Projects</summary>
 <br>
 <a href="https://github.com/xinbi99/EE-microcotroller-project">
-Cipher lock implemented on microcontroller and LCD module with C</a>
+-Cipher lock implemented on microcontroller and LCD module with C</a>
 </details>
