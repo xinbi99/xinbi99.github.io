@@ -1,11 +1,10 @@
 
 
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
 
-You can use the [editor on GitHub](https://github.com/xinbi99/xinbi99.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Hi, my name is Xin Bi, and I am a student at The Pennsylvania State University.<br/>
+<img align="right" src="https://xinbi99.github.io/headshot.png"><br/>
+I am double majoring in computer science and electrical engineering, with a minor in Economics.
 <details>
 <summary>Past EE Projects</summary>
 <br>
