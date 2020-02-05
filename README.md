@@ -4,8 +4,10 @@
 
 Hi, my name is Xin Bi, and I am a Junior at The Pennsylvania State University.<br/>Looking for an internship over Summer 2020.<br/><img align="right"  width="200" height="275" src="https://xinbi99.github.io/headshot.png"><br/>
 I am double majoring in computer science and electrical engineering, with a minor in Economics.<br/>
-Current GPA: 3.85/4.00
+Current GPA: 3.85/4.00 <br/>
 
+
+Here are links to my past and current project repositories, in no particular order.
 <br/>
 <details>
 <summary>Past EE Projects</summary>
