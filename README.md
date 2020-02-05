@@ -9,6 +9,15 @@ Current GPA: 3.85/4.00 <br/>
 
 Here are links to my past and current project repositories, in no particular order.
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <details>
 <summary>Past EE Projects</summary>
 <br>
