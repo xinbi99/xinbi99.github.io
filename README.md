@@ -1,4 +1,4 @@
-title: Welcome to my peronsal homepage!
+
 
 ## Welcome to GitHub Pages
 
@@ -6,5 +6,9 @@ You can use the [editor on GitHub](https://github.com/xinbi99/xinbi99.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-
-[Cipher lock implemented on microcontroller and LCD module with C](https://github.com/xinbi99/EE-microcotroller-project).
+<details>
+<summary>Past Projects</summary>
+<br>
+<a href="https://github.com/xinbi99/EE-microcotroller-project">
+Cipher lock implemented on microcontroller and LCD module with C</a>
+</details>
