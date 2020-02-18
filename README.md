@@ -50,4 +50,7 @@ Here are links to my past and current project repositories, in no particular ord
 <br>
 <a href="https://github.com/xinbi99/Plagiarism-Detection-program">
 -Plagiarism detection in JAVA</a>
+<br>
+<a href="https://github.com/xinbi99/mock-contacts-app-through-javafx">
+-Mock Contacts APP with JavaFX</a>
 </details>
