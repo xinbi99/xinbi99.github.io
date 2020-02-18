@@ -23,9 +23,9 @@ Here are links to my past and current project repositories, in no particular ord
 <br>
 <a href="https://github.com/xinbi99/EE-microcotroller-project">
 -Cipher lock implemented on microcontroller and LCD module with C</a>  
-<br/>
-<a href="https://github.com/xinbi99/EE-microcotroller-project">
--Cipher lock implemented on microcontroller and LCD module with C</a>
+<br>
+<a href="https://github.com/xinbi99/five-stage-pipelined-CPU">
+-Five Stage Pipelined CPU implemented on a simulated FPGA</a>  
 </details>
 
 
