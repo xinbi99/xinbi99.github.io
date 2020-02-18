@@ -32,6 +32,6 @@ Here are links to my past and current project repositories, in no particular ord
 <details>
 <summary>Past CMPSC Projects</summary>
 <br>
-<a href="https://github.com/xinbi99/EE-microcotroller-project">
--Cipher lock implemented on microcontroller and LCD module with C</a>
+<a href="https://github.com/xinbi99/C-programming-basics">
+-C programming basics practice</a>
 </details>
