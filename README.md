@@ -34,7 +34,7 @@ Here are links to my past and current project repositories, in no particular ord
 -Finite State machine on a FPGA with LED lights indicating current state</a>  
 <br>
 <a href="https://github.com/xinbi99/cipher-lock-on-NImyDAQ">
--Cipher lock implemented on breadboard with LED lights through Labview and myDAQ</a>  
+-Cipher lock implemented on breadboard Labview and myDAQ</a>  
 <br>
 <a href="https://github.com/xinbi99/cipher-lock-on-CPLD">
 -Cipher lock implemented on CPLD</a>  
