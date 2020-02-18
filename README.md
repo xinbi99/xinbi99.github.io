@@ -47,4 +47,7 @@ Here are links to my past and current project repositories, in no particular ord
 <br>
 <a href="https://github.com/xinbi99/C-programming-basics">
 -C programming basics practice</a>
+<br>
+<a href="https://github.com/xinbi99/Plagiarism-Detection-program">
+-Plagiarism detection in JAVA</a>
 </details>
