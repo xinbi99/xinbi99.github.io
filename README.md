@@ -53,4 +53,7 @@ Here are links to my past and current project repositories, in no particular ord
 <br>
 <a href="https://github.com/xinbi99/mock-contacts-app-through-javafx">
 -Mock Contacts APP with JavaFX</a>
+<br>
+<a href="https://github.com/xinbi99/user-space-device-driver-in-c">
+-User space device driver (currently developing)</a>
 </details>
