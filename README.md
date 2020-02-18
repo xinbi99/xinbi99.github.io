@@ -35,6 +35,9 @@ Here are links to my past and current project repositories, in no particular ord
 <br>
 <a href="https://github.com/xinbi99/cipher-lock-on-NImyDAQ">
 -Cipher lock implemented on breadboard with LED lights through Labview and myDAQ</a>  
+<br>
+<a href="https://github.com/xinbi99/cipher-lock-on-CPLD">
+-Cipher lock implemented on CPLD</a>  
 </details>
 
 
